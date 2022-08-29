@@ -43,3 +43,5 @@ public class Main {
         System.out.println("Mortgage:\t\t\t\t\t"+formatter.format(mortgage));
     }
 }
+
+main()
